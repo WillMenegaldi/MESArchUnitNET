@@ -1,0 +1,12 @@
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Infra\bin\Debug\netcoreapp3.1\MESArchitecturePoc.Infra.deps.json
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Infra\bin\Debug\netcoreapp3.1\MESArchitecturePoc.Infra.dll
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Infra\bin\Debug\netcoreapp3.1\MESArchitecturePoc.Infra.pdb
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Infra\bin\Debug\netcoreapp3.1\MESArchitecturePoc.Domain.dll
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Infra\bin\Debug\netcoreapp3.1\MESArchitecturePoc.Domain.pdb
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Infra\obj\Debug\netcoreapp3.1\MESArchitecturePoc.Infra.csprojAssemblyReference.cache
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Infra\obj\Debug\netcoreapp3.1\MESArchitecturePoc.Infra.AssemblyInfoInputs.cache
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Infra\obj\Debug\netcoreapp3.1\MESArchitecturePoc.Infra.AssemblyInfo.cs
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Infra\obj\Debug\netcoreapp3.1\MESArchitecturePoc.Infra.csproj.CoreCompileInputs.cache
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Infra\obj\Debug\netcoreapp3.1\MESArchitecturePoc.Infra.csproj.CopyComplete
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Infra\obj\Debug\netcoreapp3.1\MESArchitecturePoc.Infra.dll
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Infra\obj\Debug\netcoreapp3.1\MESArchitecturePoc.Infra.pdb

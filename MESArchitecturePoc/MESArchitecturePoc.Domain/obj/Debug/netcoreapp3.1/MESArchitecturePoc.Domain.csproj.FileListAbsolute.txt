@@ -1,0 +1,9 @@
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Domain\bin\Debug\netcoreapp3.1\MESArchitecturePoc.Domain.deps.json
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Domain\bin\Debug\netcoreapp3.1\MESArchitecturePoc.Domain.dll
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Domain\bin\Debug\netcoreapp3.1\MESArchitecturePoc.Domain.pdb
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Domain\obj\Debug\netcoreapp3.1\MESArchitecturePoc.Domain.csprojAssemblyReference.cache
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Domain\obj\Debug\netcoreapp3.1\MESArchitecturePoc.Domain.AssemblyInfoInputs.cache
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Domain\obj\Debug\netcoreapp3.1\MESArchitecturePoc.Domain.AssemblyInfo.cs
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Domain\obj\Debug\netcoreapp3.1\MESArchitecturePoc.Domain.csproj.CoreCompileInputs.cache
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Domain\obj\Debug\netcoreapp3.1\MESArchitecturePoc.Domain.dll
+C:\MES\MESArchitecturePoc\MESArchitecturePoc\MESArchitecturePoc.Domain\obj\Debug\netcoreapp3.1\MESArchitecturePoc.Domain.pdb

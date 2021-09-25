@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MESArchitecturePoc.Infra/1.0.0": {
+        "dependencies": {
+          "MESArchitecturePoc.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MESArchitecturePoc.Infra.dll": {}
+        }
+      },
+      "MESArchitecturePoc.Domain/1.0.0": {
+        "runtime": {
+          "MESArchitecturePoc.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MESArchitecturePoc.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MESArchitecturePoc.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
